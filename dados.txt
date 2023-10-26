@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Gabrielly
+-Profissão: Analista de Qualidade de Software
+-Cidade: Sapiranga, Rio Grande do Sul
+-O que faz nas horas vagas: Estudo, produzo trabalhos para minha faculdade, cuido das minhas plantinhas, leio um livro, etc...
+-Feedback sobre o curso Qualidade de Software: Estou amando! 
+-Feedback sobre a plataforma de estudo da EBAC: Uma das melhores que já utilizei
+
+Obrigado!!!
+
+
